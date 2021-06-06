@@ -1,6 +1,6 @@
 [![Slam](https://telegra.ph/file/02fd25f1ee23f2df0c3a7.jpg)](https://t.me/RosewoodRed)
 
-Credit: owner of this repo :- [Owner] (https://github.com/ayushteke)
+Credit - owner of this repo: [Owner](https://github.com/ayushteke)
 
 
 # Slam Mirror Bot
