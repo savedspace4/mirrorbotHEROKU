@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosewood-355",
+  "private_key_id": "7577a29c44583058b598ebc4ab285a2a0503b5ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDY/SImxL/RJr/i\n+JhHm2NqyDEMjRD2qG1SUbfHWyhHCPlK6NPqc3LeKMAgI/rd9wFpyV3GEXS6bc2P\ntPO5ej+4b+KRjPUpR0ZjSEuZCg9BxYkVx0RuS7HbYXubLEWFsvudH2X1l7BxjM67\n8DYOfaYbCd5ZhZPltDKQRD1w32y1htgSDWoGXBfuuJeLRcSKnI6qECwemC6HlM+E\nL9phu/UzNz0zJ/xb5sT7zSyLUBYiolDFEQyV7/DOcQdUf7TK7zJK39uKHQs0cP5W\nt3LHjGKcGfaFKD/UQ5WpI8i6cNsM9mih884cbYibFmvMoprG5ZZADl/FdXeYHGEZ\nF6MC2/PXAgMBAAECggEAU5OIRGtywGHO9eKvcKFCtR3feoiZGJA97z+HbDNJu7aS\noo40FXEbNMN4YMjK9xSNCExloIUXszjYvLnDSFT0VxtNJqemxBvuWg4+A/eycbBe\ngTNrwZnJKwkMnXN7YahTLq0pzeL7tHi6Jfw7LfCqem6eJFgFY6u48AVArwl3ayEL\nh109SD5B0t4m+frAHszK6d//krAGNh/RGvDy6pMLH23Tn/MixXkwj9p1W4hxcsTs\n54bNtwbKm5GWEgW03Z2DkGuUGdW6P+2UCsLCDQ+3zuN9L7gsndDR7JrPP7nV4tcB\nXSgXCVxY2iNY1sIDZi0DdjxqiRKzEvHVamZr8KnnyQKBgQD7XnHtHLHZUv+yixxO\nKSt3pCBPiP8OtQAYVzSIjeGAUxoZP19SgzSHTsg3Te2TYSeA+MS6qUx8PqY6dVnw\nyY5B+KMgdkWyQcYOzCFEk8nnGuW4U1XSG0nynyY/DMPb60Nn0izu66EW7umYiKUo\nzDnuFKi6Gn3ON+XJNDC8n58S7wKBgQDc/InE33JqCynrYinLzEeT/d7Eurh30Jz3\n7rTeAT9nf7knUlJJxMdLaYlqZVwsJOY9fYf0lSLwdAW/QBf1fkYl2Cage2JFi6Ae\ntjFNurD5aCa35FtJVFXaLLu0deQRz4xPkJW37tGApuJcUDo2VuTwxAzQWqNnS+5S\nCUgYBmSNmQKBgQCrFmc4WbV7E5DRtvk3AbKCJgWP3NCs8+jyqDgrUVZQfz9eO9Hn\nWUIhbi+75KB1FUVL9QYBfkV+sy100Ha8+pKGuHJfH+DkKPxjCfECugxL7fS49o+N\nB+HW7xebBlcwkfo46caHf30PHOGFXkv7brVnJEyLDojeGRGfVpRtbb9ZpQKBgA4K\nbaZ4nAho1S0De6xbOmEIzFKrmnTiaFbIb+17HtAwqU76SAgv3InKFtUPw596aLaX\ndz/vCd1FQeg45kzOzR4ycaHYtRG+IVpSMSfDKONv3qXoeHRcS2glV3fL1cXb7gpQ\nIXMiVWVbNR6wakJxmvJBQp8qYx95D5dex5nfLhxhAoGAeWBroMjJoHjEcE+ge+js\n4H5ZB/o1jBcJtjUVXVnWAxokz1kVjEyFF2lxA/RA2u8fYkVaHVKQ7IQA7fzPRmVw\nfkGj5qM6HdHNReP7vDv/lT1RMu3LcuH66hbSz0GXFjeMnP8s1Ze8ro4PdOCrBHhd\nq75W/GnIyKwLWJBNgmtlEHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-8emlegdu4nn62h1sf3cdjxr5tq@rosewood-355.iam.gserviceaccount.com",
+  "client_id": "108053496549141379956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-8emlegdu4nn62h1sf3cdjxr5tq%40rosewood-355.iam.gserviceaccount.com"
+}
